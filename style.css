@@ -725,6 +725,14 @@ body {
     color: rgb(33, 33, 33);
 }
 
+.plane-button:focus {
+    outline: none;
+}
+
+.col .email:focus {
+    outline: none;
+}
+
 .last-row {
     display: flex;
     justify-content: space-between;
