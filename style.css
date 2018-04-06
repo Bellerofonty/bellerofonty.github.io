@@ -1048,3 +1048,17 @@ body {
     line-height: 20.082px;
     margin: 4px 0;
 }
+
+.hidden {
+    width: 600px;
+    margin: 30px auto;
+
+}
+
+.hidden p {
+    font-size: 16px;
+}
+
+.body-hidden {
+    background-color: lavender;
+}
